@@ -1,2 +1,2 @@
 # Optics
-Clase de optica Enero - Junio 2022
+Optics class 2022
